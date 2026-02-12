@@ -17,13 +17,13 @@ Press **Right Shift** from the main menu to open the space-themed **Mod Menu**, 
 
 #### 1. Sprint Toggle
 - **Description**: Press your sprint key to toggle sprint on/off instead of holding
-- **Default Key**: Left Shift
+- **Default Key**: Left Control
 - **Enabled**: Press the button in mod menu or toggle in-game with the sprint key
 - **Status**: Shows [ON]/[OFF] in mod menu
 
 #### 2. Toggle Sneak
 - **Description**: Press your sneak key to toggle sneaking instead of holding
-- **Default Key**: Left Control
+- **Default Key**: Left Shift
 - **Enabled**: Press the button in mod menu or toggle in-game with the sneak key
 - **Status**: Shows [ON]/[OFF] in mod menu
 
